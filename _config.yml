@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Udit Narayan Pandey"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Senior EECS Undergraduate at IIT Kanpur, India"
   location         : "Kanpur, India"
   #employer         :
