@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% include base_path %}
 A student at IIT Kanpur
