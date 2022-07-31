@@ -10,7 +10,7 @@ title: About Me
 
 {% include base_path %}
 
-I am a final year Undergraduate student at IIT Kanpur majoring in Electrical
-Engineering from [IIT Kanpur](https://www.iitk.ac.in/). My interests lie in
-Theoretical Computer Science, with focus on Complexity Theory, Computational
-Algebra, Boolean Functions and Quantum Computing.
+I am a final year Undergraduate student at [IIT Kanpur](https://www.iitk.ac.in/)
+majoring in Electrical Engineering from . My interests lie in Theoretical
+Computer Science, with focus on Complexity Theory, Computational Algebra,
+Boolean Functions and Quantum Computing.
